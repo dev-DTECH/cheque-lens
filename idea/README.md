@@ -18,8 +18,7 @@ techniques and image processing.
 2. **Signature Verification:** Extract and match the signature in the cheque with the signature
 in the bank database. Also check for signature forgery using convolutional neural
 network.
-3. **Automatic Data Entry:** Extract the data from the cheque using [Google’s Tesseract-OCR
-Engine](https://github.com/tesseract-ocr/tesseract)(configured for Multiple Languages) and entry the data to process the transaction.
+3. **Automatic Data Entry:** Extract the data from the cheque using [Azure Computer Vision API](https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/)(configured for Multiple Languages) and entry the data to process the transaction.
 4. **Optimise the Neural Network models:** Use different optimisation techniques to make the
 verification process faster with high accuracy.
 5. **Minimize Human effort:** Minimize human effort by minimizing false positive of fraud
@@ -48,6 +47,5 @@ potential frauds.
 - **Check for overwriting/correction:** The writing should be checked for overwriting/correct
 using neural networks if found bounce the cheque.
 - **Data Entry:** After all the verification is done the details of the cheque will be extracted
-using [Google’s Tesseract-OCR
-Engine](https://github.com/tesseract-ocr/tesseract)(configured for Multiple Languages) and start
+using [Azure Computer Vision API](https://azure.microsoft.com/en-in/services/cognitive-services/computer-vision/)(configured for Multiple Languages) and start
 transaction process.
