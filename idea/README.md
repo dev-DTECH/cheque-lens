@@ -2,7 +2,7 @@
 > Automated Cheque Processing and Fraud Detection using Deep Learning
 
 ## RBI's "CTS-2010 Standard" for Cheque Forms
-!["CTS-2010 Standard" for Cheque Forms](https://github.com/dev-DTECH/cheque-lens/raw/main/img/CTS-10.png)
+!["CTS-2010 Standard" for Cheque Forms](https://github.com/dev-DTECH/cheque-lens/raw/main/idea/img/CTS-10.png)
 
 ---
 
@@ -25,7 +25,7 @@ verification process faster with high accuracy.
 5. **Minimize Human effort:** Minimize human effort by minimizing false positive of fraud
 detection and signation verification. With accurate OCR.
 
-### [Flow Chart](https://github.com/dev-DTECH/cheque-lens/raw/main/img/cheque-flow.jpg)
+### [Flow Chart](https://github.com/dev-DTECH/cheque-lens/raw/main/idea/img/cheque-flow.jpg)
 
 ### Implementation Plan
 - **Scan the cheque:** Make a fontend in python that can take a picture from camera/scanner
